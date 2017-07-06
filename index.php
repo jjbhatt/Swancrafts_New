@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>SWANCRAFTS| ASP.NET | PHP| C#| MVC| SQL| Website Development company| Software Development company</title>
+    <title>SWANCRAFTS| ASP.NET | PHP| C#| MVC| SQL| Website Development| Software Development</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="ASP.NET, C#.NET, PHP, MVC, SQL SERVER, ORACLE,MySQL , SEO, SOFTWARE DEVELOPMENT, WEBSITE DEVELOPMENT, WEB API AND SERVICES, SWANCRAFTS" name="keywords">
     <meta content="Swancrafts is a service based company that works on Software and Website/Web Service Development using various .NET technologies and php frameworks. Moreover, it also
@@ -51,7 +51,7 @@
         <div class="row">
           <div class="col-md-12">
             
-			<img class="logo" src="img/SwanCrafts.png"/><h2>SWANCRAFTS</h2>
+			<img class="logo" src="img/SwanCrafts.png" alt="SwanCrafts"/><h2>SWANCRAFTS</h2>
           </div>
         </div>
 
@@ -74,7 +74,7 @@
     <div class="container">
     
       <div id="logo" class="pull-left">
-        <a href="index.html"><img class="logo-nav" src="img/SwanCrafts.png"/></a>
+        <a href="index.php"><img class="logo-nav" src="img/SwanCrafts.png" alt="SwanCrafts"/></a>
         <!-- Uncomment below if you prefer to use a text image -->
         
       </div>
@@ -83,8 +83,8 @@
         <ul class="nav-menu">
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
-          <!--<li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>-->
+          <li><a href="#portfolio">Portfolio</a></li>
+          <!--<li><a href="#team">Team</a></li>-->
           <!--<li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -205,7 +205,7 @@
 
               <div>
                 <h3>
-                  Windows Applicaton Development
+                  Software Development
                 </h3>
 
                 <p>
@@ -229,7 +229,7 @@
                 </h3>
 
                 <p>
-                  We create API's and Services that allows your data to be integrated with application seamlessly.
+                  We create APIs and Services that allows your data to be integrated with application seamlessly.
                 </p>
               </div>
             </div>
@@ -325,30 +325,30 @@
     <!-- /Call to Action -->
     <!-- Portfolio -->
 
-    <!--<section class="portfolio" id="portfolio">
+    <section class="portfolio" id="portfolio">
       <div class="container text-center">
         <h2>
           Portfolio
         </h2>
 
-        <p>
+        <!--<p>
           Voluptua scripserit per ad, laudem viderer sit ex. Ex alia corrumpit voluptatibus usu, sed unum convenire id. Ut cum nisl moderatius, Per nihil dicant commodo an.
-        </p>
+        </p>-->
       </div>
 
       <div class="portfolio-grid">
         <div class="row">
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-1.jpg">
+              <a href="#"><img alt="Excellent Pest Controll" src="img/past-controll.jpg">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Excellent Pest Controll
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                     The highest growing Pest Control Company in the India.
                   </p>
                 </div>
               </div></a>
@@ -357,15 +357,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-2.jpg">
+              <a href="#"><img alt="Deepak Petroleum" src="img/Oils_Registration.gif">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Deepak Petroleum
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Specialized oil manufacturing company in the private sector.
                   </p>
                 </div>
               </div></a>
@@ -374,15 +374,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-3.jpg">
+              <a href="#"><img alt="Shreeambe Mobile" src="img/3.png">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Shreeambe Mobile
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    
                   </p>
                 </div>
               </div></a>
@@ -391,15 +391,15 @@
 
           <div class="col-lg-3 col-sm-6 col-xs-12">
             <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-4.jpg">
+              <a href="#"><img alt="Jenisha Software" src="img/soft.png">
               <div class="portfolio-over">
                 <div>
                   <h3 class="card-title">
-                    The Dude Rockin'
+                    Jenisha Software
                   </h3>
 
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
+                    Billing software.
                   </p>
                 </div>
               </div></a>
@@ -407,182 +407,11 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-5.jpg">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    The Dude Rockin'
-                  </h3>
-
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-6.jpg">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    The Dude Rockin'
-                  </h3>
-
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-7.jpg">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    The Dude Rockin'
-                  </h3>
-
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-sm-6 col-xs-12">
-            <div class="card card-block">
-              <a href="#"><img alt="" src="img/porf-8.jpg">
-              <div class="portfolio-over">
-                <div>
-                  <h3 class="card-title">
-                    The Dude Rockin'
-                  </h3>
-
-                  <p class="card-text">
-                    Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                  </p>
-                </div>
-              </div></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>-->
-    <!-- /Portfolio -->
-    <!-- Team -->
-
-    <section class="team" id="team" style="display: none;">
-      <div class="container">
-        <h2 class="text-center">
-          Meet our team
-        </h2>
-
-        <div class="row">
-          <div class="col-sm-3 col-xs-6">
-            <!--<div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/team-1.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Sergio Fez</span> <span class="card-text">Art Director</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>-->
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/No image.gif">
-              <div class="card-title-wrap">
-                <span class="card-title">Umair Ansari</span> <span class="card-text">Web Developer</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                    <a target="_blank" href="https://twitter.com/SwanCrafts"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="mailto:swancrafts.in@gmail.com"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                      Hi, you can reach me on 9510811712 also.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/No image.gif">
-              <div class="card-title-wrap">
-                <span class="card-title">Jimit Bhatt</span> <span class="card-text">Software Developer</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a target="_blank" href="https://twitter.com/SwanCrafts"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="mailto:swancrafts.in@gmail.com"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Hi, you can reach me on 9844217154 also.
-                </p>
-              </div></a>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-xs-6">
-            <!--<div class="card card-block">
-              <a href="#"><img alt="" class="team-img" src="img/team-4.jpg">
-              <div class="card-title-wrap">
-                <span class="card-title">Sergio Fez</span> <span class="card-text">Art Director</span>
-              </div>
-
-              <div class="team-over">
-                <h4 class="hidden-md-down">
-                  Connect with me
-                </h4>
-
-                <nav class="social-nav">
-                  <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i class="fa fa-envelope"></i></a>
-                </nav>
-
-                <p>
-                  Lorem ipsum dolor sit amet, eu sed suas eruditi honestatis.
-                </p>
-              </div></a>
-            </div>-->
-          </div>
-        </div>
+        
       </div>
     </section>
-    <!-- /Team -->
+    <!-- /Portfolio -->
+    
     <!-- @component: footer -->
 
     <section id="contact">
@@ -599,7 +428,7 @@
                           
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>swancrafts.in@gmail.com</p>
+                <p><a href="mailto:swancrafts.in@gmail.com">swancrafts.in@gmail.com </a></p>
               </div>
               
               <div>
@@ -658,7 +487,7 @@
             <div class="col-lg-6 col-xs-12 text-lg-right text-center">
               <ul class="list-inline">
                 <li class="list-inline-item">
-                  <a href="index.html">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
 
                 <li class="list-inline-item">
@@ -669,11 +498,11 @@
                   <a href="#services">Services</a>
                 </li>
 
-               <!-- <li class="list-inline-item">
+                <li class="list-inline-item">
                   <a href="#portfolio">Portfolio</a>
                 </li>
 
-                <li class="list-inline-item">
+                <!--<li class="list-inline-item">
                   <a href="#team">Team</a>
                 </li>-->
 
