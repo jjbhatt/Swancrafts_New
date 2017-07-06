@@ -428,7 +428,7 @@
                           
               <div>
                 <i class="fa fa-envelope"></i>
-                <p><a href="mailto:swancrafts.in@gmail.com">swancrafts.in@gmail.com </a></p>
+                <p><a href="mailto:swancrafts.in@gmail.com">swancrafts.in[at]gmail.com </a></p>
               </div>
               
               <div>
